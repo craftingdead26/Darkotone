@@ -7,39 +7,6 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_ACCENT": [
-            "#2dcf25"
-        ],
-        "BACKGROUND_BASE_LOW": [
-            "#000000"
-        ],
-        "BACKGROUND_BASE_LOWER": [
-          "#000000"
-          ],
-        "BACKGROUND_BASE_LOWEST": [
-            "#101010"
-          ],
-        "EMBED_BACKGROUND" : [
-          "#101010"
-          ],
-        "BACKGROUND_SURFACE_HIGH" : [
-            "#101010"
-          ],
-        "PANEL_BG" : [
-            "#1A1A1A"
-          ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND" : [
-            "#1A1A1A"
-          ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER" : [
-            "#2cff2b"
-          ],
-        "TEXT_MUTED" : [
-            "#2cff2b"
-           ],
-        "BORDER_MUTED" : [
-          "#2cff2b"
-          ],
         "BORDER_STRONG" : [
           "#2cff2b"
           ],

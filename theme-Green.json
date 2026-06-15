@@ -34,6 +34,9 @@
         "REDESIGN_BUTTON_SECONDARY_BORDER" : [
             "#2cff2b"
           ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT" : [
+            "#045400"
+          ],
         "TEXT_MUTED" : [
             "#2cff2b"
            ],
@@ -67,7 +70,36 @@
         "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE" : [
           "#2cff2b"
           ],
-      
+        "REDESIGN_CHANNEL_NAME_TEXT" : [
+          "#2cff2b"
+          ],
+        "REDESIGN_INPUT_CONTROL_SELECTED" : [
+          "#2cff2b"
+          ],
+        "TEXT_DEFAULT" : [
+          "#a6ffae"
+          ],
+        "INTERACTIVE_TEXT_DEFAULT" : [
+          "#2cff2b"
+          ],
+        "THREAD_CHANNEL_SPINE" : [
+          "#2cff2b"
+          ],
+        "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT" : [
+          "#101010"
+          ],
+        "BG_SURFACE_OVERLAY_TMP" : [
+          "#101010"
+          ],
+        "CARD_SECONDARY_BG" : [
+            "#101010"
+          ],
+        "INPUT_BACKGROUND_DEFAULT" : [
+            "#101010"
+          ],
+        "INTERACTIVE_BACKGROUND_ACTIVE" : [
+           "#2dcf25"
+          ],
         "BACKGROUND_MOD_STRONG" : [
           "#2dcf25"
           ],

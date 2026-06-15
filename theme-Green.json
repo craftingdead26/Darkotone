@@ -40,37 +40,34 @@
         "BORDER_MUTED" : [
           "#2cff2b"
           ],
-    
-        "REDESIGN_CHANNEL_NAME_TEXT" : [
+        "BORDER_STRONG" : [
           "#2cff2b"
           ],
-        "REDESIGN_INPUT_CONTROL_SELECTED" : [
+        "CARD_BACKGROUND_DEFAULT" : [
+          "#000000"
+          ],
+        "CHANNEL_ICON" : [
+          "#2dcf25"
+          ],
+        "INTERACTIVE_ICON_DEFAULT" : [
           "#2cff2b"
           ],
-        "TEXT_DEFAULT" : [
-          "#a6ffae"
-          ],
-        "INTERACTIVE_TEXT_DEFAULT" : [
+        "INTERACTIVE_TEXT_ACTIVE" :[
           "#2cff2b"
           ],
-        "THREAD_CHANNEL_SPINE" : [
+        "MOBILE_TEXT_HEADING_PRIMARY" : [
           "#2cff2b"
           ],
-        "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT" : [
-          "#101010"
+        "BUTTON_OUTLINE_DANGER_BORDER" : [
+          "#2cff2b"
           ],
-        "BG_SURFACE_OVERLAY_TMP" : [
-          "#101010"
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND" : [
+          "#2cff2b"
           ],
-        "CARD_SECONDARY_BG" : [
-            "#101010"
+        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE" : [
+          "#2cff2b"
           ],
-        "INPUT_BACKGROUND_DEFAULT" : [
-            "#101010"
-          ],
-        "INTERACTIVE_BACKGROUND_ACTIVE" : [
-           "#2dcf25"
-          ],
+      
         "BACKGROUND_MOD_STRONG" : [
           "#2dcf25"
           ],
